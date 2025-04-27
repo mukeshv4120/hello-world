@@ -1,1 +1,2 @@
-hello-world repository git tutorial
+hello-world repository git tutorial 
+trying git commands
